@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.logo img{
+  height: 2em;
+  width: 2em;
+}
+
+.inicio{
+  display: flex;
+  flex-direction: row;
+  padding-right: 1em;
+}
+
+.inicio img{
+  width: 1em;
+  height: 1em;
+}
+
+.formulario{
+  display: flex;
+  flex-direction: row;
+}
+
+.formulario img{
+  width: 1em;
+  height: 1em;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.torta{
+  width: 10em;
+  height: 10em;
+}
